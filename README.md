@@ -6,7 +6,8 @@ A Strong Number is a number whose factorials equal the sum of the number.
 ### Examples
 <ul>
 <li>2 = 2!</li>
-
+<ul><li><b>(1! + 2! = 2)</b></li></li></ul>
+         
 <li>145 = 1! + 4! + 5!
 <ul><li><b>(1  + 24 + 120 = 145)</b></li></li></ul>
          
