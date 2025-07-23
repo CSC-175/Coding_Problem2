@@ -15,7 +15,7 @@ A Strong Number is a number whose factorials equal the sum of the number.
 </ul>
 
 ## Directions
-Write a program to prompt a user to enter a natural number and check to see if it is a Strong number or not. This number occurs when the sum of the factorials of each digit is equal to the number. Note: This solution must make use of only loops! No arrays or functions allowed!
+Write a program to prompt a user to enter a natural number and check to see if it is a Strong number or not. <b>Note: This solution must make use of only loops! No arrays or functions allowed!</b>
 
 ## Interface Prototype Example
 
